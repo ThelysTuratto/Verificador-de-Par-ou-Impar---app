@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Praticando_KotlinCurso</string>
+    <string name="titulo">Boa Sorte\n</string>
+    <string name="hint">Escreva um número de 6 a 15</string>
+</resources>
